@@ -8,9 +8,9 @@ https://public.tableau.com/app/profile/sarah.wiggins/viz/Challenge14_16486724294
 ### Other Visuals Found Previously
 ![Screenshot (27)](https://user-images.githubusercontent.com/92561938/161101943-40e2239f-b6bb-47ce-a314-f0175e8074be.png)
 
-
+The graph shows top starting locations in the city. This means that this is where people start their bikesharing. The larger circles show what area is most popular to start and the smaller circles show the least popular areas to start. The graph shows the most popular area to start is in the west of this location.
 
 ![Screenshot (28)](https://user-images.githubusercontent.com/92561938/161102005-2e60aaca-1774-4b67-a63a-6468491a5ba7.png)
 
-
+The graph shows top ending locations in the city. This means that this is where people end their bikesharing. The larger circles show what area is most popular to end and the smaller circles show the least popular areas to end. The graph shows the most popular area to end is in the west of this location like it is in the top starting locations graph.
 ## Summary
