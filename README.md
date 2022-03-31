@@ -14,3 +14,7 @@ The graph shows top starting locations in the city. This means that this is wher
 
 The graph shows top ending locations in the city. This means that this is where people end their bikesharing. The larger circles show what area is most popular to end and the smaller circles show the least popular areas to end. The graph shows the most popular area to end is in the west of this location like it is in the top starting locations graph.
 ## Summary
+I feel like they have enough information to come to a conclusion that they will invest. I think they would benefit with getting information like this from a city that is very similar to get the best results and feel comfortable with their decision in investing.
+### Other Visual Ideas
+- Find the average trip duration between age and gender to see if there are any correlations.
+- Find the flow of traffic during the peak hours. I am not sure how I would display it, but its something worth exploring.
